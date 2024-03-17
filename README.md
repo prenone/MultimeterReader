@@ -10,12 +10,12 @@ This Jupyter Notebook is useful to extract **multimeter readings from videos**
 # Some screenshots
 This is my multimeter!
 
-![Misurator Icon](https://achilleme.com/static/multimeter_reader/multimeter.png)
+![Misurator Icon](https://achilleme.com/static/multimeter_reader/multimeter.png?)
 
 And this is the display after a little bit of OpenCV
 
-![Misurator Icon](https://achilleme.com/static/multimeter_reader/display_cv.png)
+![Misurator Icon](https://achilleme.com/static/multimeter_reader/display_cv.png?)
 
 Finally, the final plot
 
-![Plot](https://achilleme.com/static/multimeter_reader/plot.png)
+![Plot](https://achilleme.com/static/multimeter_reader/plot.png?)
