@@ -1,6 +1,11 @@
 # MultimeterReader
 This Jupyter Notebook is useful to extract **multimeter readings from videos**
 
+# Warning
+This notebook was written by Achille Merendino for the A1 Group of Laboratorio di Elettromagnetismo e Circuiti 2024
+This software comes with no warranty whatsoever and you should always double check its output.
+I have tested this software with footage from the laboratory and my own multimeter at home, it had $\sim$ 98% accuracy in both cases, but still DO NOT TRUST IT BLINDLY!
+
 # How it works
 1. The video is separated into frames at regular intervals
 2. Each frame is manipulated using OpenCV for better reading of the display
